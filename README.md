@@ -5,4 +5,4 @@ WAREHOUSE STOCK MANAGEMENT SYSTEM.
 ![Admin Dashboard](https://github.com/EdmundNyaribo/Kemsa1-Fourth-year-project/blob/master/images/admin_dashboard.png)
 
 ## Description
-* Get the full documentation in the PDF file: ![Final_Year_Project_Documentation.pdf](https://github.com/EdmundNyaribo/Kemsa1-Fourth-year-project/blob/master/Final_Year_Project_Documentation.pdf)
+* Get the full documentation in the PDF file: [Final_Year_Project_Documentation.pdf](https://github.com/EdmundNyaribo/Kemsa1-Fourth-year-project/blob/master/Final_Year_Project_Documentation.pdf)
